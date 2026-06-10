@@ -1,4 +1,5 @@
 # OMDB Movie Search Project
+[🔗 Projeyi Canlı Görüntülemek İçin Tıklayın](https://kutayxcool.github.io/omdb-project/)
 
 ## How to Set Up Your Repository
 
